@@ -3905,4 +3905,10 @@ footer .row {
     justify-content: center;
 }
 
+@media only screen and (max-width: 767px) {
+    .center-class .slick-list {
+        display: block;
+    }
+}
+
 /*# sourceMappingURL=main.css.map */
